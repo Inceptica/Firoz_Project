@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_hfxvkZCLEey9cYghAvDk4A" label="firoz_project2" description="Training 2" language="java" technicalLabel="FIROZ_PROJECT2" author="_hfxvkpCLEey9cYghAvDk4A" productVersion="Talend Cloud Data Fabric-8.0.1.20211109_1610" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;git@github.com:Inceptica/Firoz_Project.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_hhxToJCLEey9cYghAvDk4A" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_hfxvkpCLEey9cYghAvDk4A" login="firoz.baksh@nfr.inceptica.co" firstName="Firoz" lastName="Baksh" type="DQ"/>
+</xmi:XMI>
